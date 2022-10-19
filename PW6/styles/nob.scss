@@ -1,0 +1,59 @@
+.hobi{
+    margin-top: 50px;
+    width: 100%;
+    float: left;
+    background-image: url("../image/theme/bg.jpg");
+    background-size: cover;
+    h1{ 
+        padding: 1vw;
+        font-size: 4vw;
+    }
+}
+.hobi_jarak{
+    max-width: 100%; 
+    height: auto;
+    width: 50%;
+    padding: 1vw;
+}
+.hobi_lanjutan{
+    float: left;
+    width: 100%;
+    padding:10px;
+    text-align: justify;
+    font-size: 2vw;
+}
+.footer {
+    background-image: url(../image/theme/bg.jpg);
+    background-position-y: center;
+    height: 120px;
+    float: left;
+    width: 100%;
+    padding: 20px 30px;
+    color: whitesmoke;
+    margin-top: 5px;
+    h2{
+        float: left;
+    }
+    a{
+        float: left;
+        color: rgb(0, 0, 0);
+        text-decoration: none;   
+    }
+    img{
+        float: left;
+        margin-right: 5px;  
+    }
+}
+.listfooter{
+    ul{
+        float: right;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        align-items: center;
+    }
+    li{
+        height: 24px;
+        list-style: none;
+        margin: 5px;
+    }
+}
